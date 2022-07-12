@@ -56,7 +56,7 @@ function Navbar(props) {
             </li>
             <li className='nav-item'>
               <a
-                href='https://drive.google.com/file/d/1ScwZI6ChQHlEqSq5JtGDJhEKz7wQjoIP/view?usp=sharing'
+                href='https://drive.google.com/file/d/1LeFUCSkegSlLOlkDuJEPbiZFY740Idlj/view?usp=sharing'
                 target= "_blank"
                 rel="noreferrer"
                 className={`nav-links text`}
@@ -68,7 +68,7 @@ function Navbar(props) {
 
             <li>
               <a
-                href='https://github.com/amanrathore48'
+                href='https://github.com/amanrathore48/Cars'
                 className={`nav-links-mobile text`}
                 onClick={closeMobileMenu}
                 target='_blank'
@@ -80,7 +80,7 @@ function Navbar(props) {
           </ul>
           {button && <button className='btn--outline'>
             <a
-              href='https://github.com/amanrathore48'
+              href='https://github.com/amanrathore48/Cars'
               onClick={closeMobileMenu}
               target='_blank'
               rel="noreferrer"

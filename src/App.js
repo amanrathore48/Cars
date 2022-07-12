@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <Canvas className='earth'>
+      <Canvas className='canva-container'>
         <CameraControls/>
         <Lights/>
         <Suspense>
